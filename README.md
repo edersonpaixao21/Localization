@@ -8,7 +8,7 @@ Localization
 
 </br>
 
-O projeto tem como objetivo que permite o usuário explorar hotéis, restaurantes e atrações próximas de sua localidade ou em determinada localidade pesquisada
+O projeto tem como objetivo que permite o usuário explorar hotéis, restaurantes e atrações próximas de sua localidade ou em determinada localidade pesquisada.
 
 ## Preview
 Interface do usuário.
